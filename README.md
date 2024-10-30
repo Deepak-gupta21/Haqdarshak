@@ -1,3 +1,8 @@
+# Haqdarshak Customer App Design Implementation
+
+Github link : https://github.com/Deepak-gupta21/Haqdarshak
+Deployed link : https://haqdarshakapp.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
