@@ -1,0 +1,11 @@
+.App {
+  margin-top: 0% !important;
+  text-align: center;
+}
+
+
+
+#root, .App {
+  margin: 0;
+  padding: 0;
+}
