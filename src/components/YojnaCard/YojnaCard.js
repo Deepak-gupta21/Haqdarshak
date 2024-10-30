@@ -5,14 +5,14 @@ import { useNavigate } from 'react-router-dom';
 import './YojnaCard.css';
 
 const ScanYojnaCard = () => {
-    const navigate = useNavigate(); // Hook to navigate programmatically
-  const [qrCodeData, setQrCodeData] = useState(''); // Replace with actual QR data or logic to handle scanning
-  const [mobileNumber, setMobileNumber] = useState('');
+    const navigate = useNavigate(); 
+  const qrCodeData ="";
+
 
   const handleUpload = (event) => {
     const file = event.target.files[0];
     if (file) {
-      // You can add functionality here to handle the uploaded file
+      
       alert(`Uploaded file: ${file.name}`);
     }
   };

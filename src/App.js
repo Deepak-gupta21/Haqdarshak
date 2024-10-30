@@ -1,5 +1,5 @@
 // App.js
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Haqdarshak from './components/Haqdarshak';
 import BenefitsInfo from './components/BenefitsInfo';
