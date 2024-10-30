@@ -1,5 +1,5 @@
 // components/ScanYojnaCard.js
-import React, { useState  } from 'react';
+import React from 'react';
 import QRCode from 'react-qr-code';
 import { useNavigate } from 'react-router-dom';
 import './YojnaCard.css';
